@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## NOTICE:
 *Now that Kernel 4.2 has been released which contains [a driver for mt7601u](https://github.com/torvalds/linux/tree/master/drivers/net/wireless/mediatek/mt7601u), this repository is now deprecated.*
 
@@ -90,3 +91,7 @@ Starting around Feb 2015, [a new mac80211 driver was written from scratch by the
 **Source code:** (c) Copyright 2002-2013, MediaTek Inc. (released under GPLv2)
 
 **Patch:** @poma at [linux-wireless](http://wireless.kernel.org/en/developers/MailingLists) mailing list
+=======
+# mt7601
+this is test
+>>>>>>> 8aab2048b5338d4a98696b1c2fe990f74bec99e2
